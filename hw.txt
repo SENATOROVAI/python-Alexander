@@ -1,12 +1,11 @@
-﻿Алгоритмы (выполнить)
-
+﻿Algorithms (выполнить):
 1)https://codeforces.com/problemset/problem/4/A
 2)https://projecteuler.net/problem=1
 3)https://leetcode.com/problems/palindrome-number/
 4)скачать https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
-5) 1 задача на литкод, выходные отдых (250 задач в год), коллеги подскажут
+5)1 задача на литкод, выходные отдых (250 задач в год), коллеги подскажут
 
-git:
+Git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
@@ -17,13 +16,11 @@ Math:
 2) https://t.me/SenatorovBootcamp/888/476 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) 
 3) сделать всё до 65стр https://t.me/SenatorovBootcamp/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
 4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
-                                                                        
-дискретка (математика для прогеров, скачать):
-1)https://t.me/ruslansenatorov/43
-
+5) скачать https://t.me/ruslansenatorov/43  
+                                                                      
 Python:
 1)https://t.me/SenatorovBootcamp/1/5243 выполнить первый пункт
-2) https://www.kaggle.com/learn/intro-to-programming
+2)https://www.kaggle.com/learn/intro-to-programming 
 
 Computer Science:
 1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
