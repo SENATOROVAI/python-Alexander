@@ -44,3 +44,4 @@ Sets:
 
 SQL:
 1) https://stepik.org/course/63054/info
+2) sql-academy.org
