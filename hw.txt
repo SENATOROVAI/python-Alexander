@@ -1,14 +1,14 @@
 ﻿Algorithms (выполнить):
-1)https://codeforces.com/problemset/problem/4/A
+1)https://codeforces.com/problemset/problem/4/A done
 2)https://projecteuler.net/problem=1
-3)https://leetcode.com/problems/palindrome-number/
+3)https://leetcode.com/problems/palindrome-number/ 
 4)скачать https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
 5)1 задача на литкод, выходные отдых (250 задач в год), коллеги подскажут
 
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
-3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team  done       
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  done
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme done 
 4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
                                                                     
 Python:
