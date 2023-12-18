@@ -17,7 +17,7 @@ for i in range(n):
     else:
         li_temp[i] -= m
 # print(li_temp)
-if li_temp.count(0) == len(li_temp):
+if li_temp.count(0) == len(li_temp): # что здесь происходит?
     print(n)
 else:
     while True:
