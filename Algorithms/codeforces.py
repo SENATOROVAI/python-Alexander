@@ -2,7 +2,14 @@
 (k, n, w) = tuple(map(lambda x: int(x) if x != '' else None, input().split(" ")))
 print((lambda x: 0 if x <= 0 else x)(k*w*(w+1)//2-n))
 #1) (k, w, n) - скобки не нужны, визуальное представлние. Более подробно https://habr.com/ru/articles/499666/
-#2) 
+#2) input().split(" ") - подаются в ряд числа разделенные пробелом. split(" ")- их разделяет.
+# Но можно просто split(), тк пробел внутри стоит по дефолту
+# 3) lambda x: int(x) if x != '' else None
+#преобразуем число типа str в int  спомощь. lambda
+
+# 4) lambda x: 0 if x <= 0 else x
+# если x отрицателтное или 0, то превращаем его в 0(избавляемся от отриц чисел),
+# если положительно, то так его и оставляем
 
 #link: https://codeforces.com/problemset/problem/450/A
 #solve1 
