@@ -3,6 +3,5 @@
 
 
 
-Im a beginner taking my first steps in mastering Data since and Python. Friendly and sociable, polite and kind. Im 17 years old, im finishing school with a degree in physics and mathematics. I will be glad to anyone who can help me achieve my goals
-
+hey👋 I'm a <strong>beginner programmer</strong> in the field of <strong> Data since </strong> and <strong> Computer since</strong> . I've been working on mistakes and improving my skills for 3 months now. sit back and watch me get better 🧠
 
