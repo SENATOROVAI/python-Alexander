@@ -1,5 +1,5 @@
 
-<h1><p font size="3" color="black" face="IMPACT"><strong>Destroyagony</p></strong></h1>
+<h1><p font size="3" color="black" face="IMPACT"><strong>Destroyagony | Data and Computer scientist</p></strong></h1>
 
 
 
