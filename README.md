@@ -1,5 +1,5 @@
 
-<strong>Destroyagony</strong>
+<h1><strong>Destroyagony</strong></h1>
 <hr>
 
 
