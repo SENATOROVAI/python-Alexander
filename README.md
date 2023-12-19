@@ -1,6 +1,5 @@
 
-<a href="https://www.rishit.tech"><img src="https://github.com/Destroyagony/Rishit-dagli/assets/147639560/eabd6dd9-2600-44f4-8a5a-059df594ee23" width="900"></a>
- 
+<strong>Destroyagony</strong>
 <hr>
 
 
