@@ -1,6 +1,6 @@
 ﻿Algorithms (выполнить):
 1)https://codeforces.com/problemset/problem/4/A done
-2)https://projecteuler.net/problem=1
+2)https://projecteuler.net/problem=1 done
 3)https://leetcode.com/problems/palindrome-number/ 
 4)скачать https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
 5)1 задача на литкод, выходные отдых (250 задач в год), коллеги подскажут
@@ -16,7 +16,7 @@ Python:
 2)https://www.kaggle.com/learn/intro-to-programming 
 
 Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 done
 2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
 
 11/13
